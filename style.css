@@ -1,0 +1,28 @@
+
+
+
+.paragraph-styling{
+    width: 50px;
+    margin: 0;
+}
+.container{
+    display: table;
+    position: relative;
+    left: 500px;
+}
+h1{
+    color: darkblue;
+}
+button{
+    width: 40px;
+    height: 30px;
+    padding-left:5px ;
+    color: darkblue;
+}
+input{
+    padding-right:2px ;
+    width: 300PX;
+    height: 25px;
+    background-color: black;
+    color: wheat;
+}
